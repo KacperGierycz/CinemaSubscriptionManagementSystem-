@@ -1,24 +1,26 @@
-# Cinema Subscription Management System (Fintech Project)
+# Cinema Subscription Management System (Fintech Project) 
 
-## Cinema Subscription Management System project showcasing agile project management practices, including iterative backlog refinement, timeline adjustments using Scrum, and secure fintech integration. Focused on edge case handling, subscription payments, and multi-platform user consistency for an enhanced customer experience.
+## Cinema Subscription Management System project showcasing agile project management practices, including iterative backlog refinement, timeline adjustments using Scrum, and secure fintech integration. Focused on edge case handling, subscription payments, and multi-platform user consistency for an enhanced customer experience. 
+
+## I have received the assignment for this project from the payment platform company that wants to expand its platform with cinema subscriptions. Below is the comprehensive project development roadmap. 
 
 Table Of Content
 1. Reply to the Customer:	1
 2. Problem Statement	2
 3. MVP Backlog and Acceptance Criteria with Corner Cases	2
-User Story 1: Subscribe to Cinema Plan	2
-User Story 2: Check-in for Movie Visit	2
-User Story 3: Manage Subscription	3
-User Story 4: Cross-Platform Consistency	3
-4. Timeline (Scrum-Oriented)	4
-Sprint 1 (Week 1-2): Discovery Phase and Initial Development	4
-Sprint 2 (Week 3-4): Focus on MVP Development	4
-Sprint 3 (Week 3-4: MVP Development Begins	5
-Sprint 4 (Week 5): Continue MVP Development	5
-Sprint 5 (Week 6): Finalize MVP	6
-Strengths of this Approach:	6
-Weaknesses to Address:	7
-5. Security and Payment Enhancements	8
+User Story 1: Subscribe to Cinema Plan for Booking Seats	2
+User Story 2: Check-in for Movie Visit	5
+User Story 3: Manage Subscription	7
+User Story 4: Cross-Platform Consistency	8
+4. Timeline (Scrum-Oriented)	9
+Sprint 1 - Project Discovery & Initial Backlog Setup	9
+Sprint 2 - MVP Subscription Flow Development	9
+Sprint 3 - Subscription Management and Payment Integration	9
+Sprint 4 - Check-In Process and Cross-Platform Development	10
+Sprint 5 - Full MVP Feature Completion & Refinement	10
+Sprint 6 - Final Adjustments and Pre-Launch Sign-Off	10
+5. Security and Payment Enhancements	11
+
 
 1. Reply to the Customer:
 

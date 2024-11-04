@@ -1,6 +1,6 @@
-H2 Cinema Subscription Management System (Fintech Project)
+# Cinema Subscription Management System (Fintech Project)
 
-Cinema Subscription Management System project showcasing agile project management practices, including iterative backlog refinement, timeline adjustments using Scrum, and secure fintech integration. Focused on edge case handling, subscription payments, and multi-platform user consistency for an enhanced customer experience.
+## Cinema Subscription Management System project showcasing agile project management practices, including iterative backlog refinement, timeline adjustments using Scrum, and secure fintech integration. Focused on edge case handling, subscription payments, and multi-platform user consistency for an enhanced customer experience.
 
 Table Of Content
 1. Reply to the Customer:	1

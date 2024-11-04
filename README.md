@@ -2,29 +2,7 @@
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-	<title></title>
-	<meta name="generator" content="LibreOffice 24.8.2.1 (Windows)"/>
-	<meta name="created" content="2024-10-18T09:31:41.796000000"/>
-	<meta name="changed" content="2024-11-04T15:14:45.131000000"/>
-	<style type="text/css">
-		@page { size: 21cm 29.7cm; margin: 2cm }
-		p { line-height: 115%; margin-bottom: 0.25cm; background: transparent }
-		h3 { margin-top: 0.25cm; margin-bottom: 0.21cm; background: transparent; page-break-after: avoid }
-		h3.western { font-family: "Liberation Serif", serif; font-size: 14pt; font-weight: bold }
-		h3.cjk { font-family: "NSimSun"; font-size: 14pt; font-weight: bold }
-		h3.ctl { font-family: "Arial"; font-size: 14pt; font-weight: bold }
-		h4 { margin-top: 0.21cm; margin-bottom: 0.21cm; background: transparent; page-break-after: avoid }
-		h4.western { font-family: "Liberation Serif", serif; font-size: 12pt; font-weight: bold }
-		h4.cjk { font-family: "NSimSun"; font-size: 12pt; font-weight: bold }
-		h4.ctl { font-family: "Arial"; font-size: 12pt; font-weight: bold }
-		h2 { margin-top: 0.35cm; margin-bottom: 0.21cm; background: transparent; page-break-after: avoid }
-		h2.western { font-family: "Liberation Sans", sans-serif; font-size: 16pt; font-weight: bold }
-		h2.cjk { font-family: "Microsoft YaHei"; font-size: 16pt; font-weight: bold }
-		h2.ctl { font-family: "Arial"; font-size: 16pt; font-weight: bold }
-		strong { font-weight: bold }
-		em { font-style: italic }
-		a:link { color: #000080; text-decoration: underline }
-	</style>
+	
 </head>
 <body lang="en-GB" link="#000080" vlink="#800000" dir="ltr"><p align="center">
 <font face="Arial, sans-serif"><font size="6" style="font-size: 24pt"><b>Cinema

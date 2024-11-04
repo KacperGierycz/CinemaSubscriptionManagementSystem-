@@ -1,5 +1,7 @@
 # Cinema Subscription Management System (Fintech Project) 
 
+https://github.com/KacperGierycz/CinemaSubscriptionManagementSystem-/blob/main/Cinema%20Subscription.pdf
+
 ## Cinema Subscription Management System project showcasing agile project management practices, including iterative backlog refinement, timeline adjustments using Scrum, and secure fintech integration. Focused on edge case handling, subscription payments, and multi-platform user consistency for an enhanced customer experience. 
 
 ## I have received the assignment for this project from the payment platform company that wants to expand its platform with cinema subscriptions. Below is the comprehensive project development roadmap. 

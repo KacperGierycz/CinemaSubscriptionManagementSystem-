@@ -1,1 +1,1 @@
-![Cinema Subscription j](https://github.com/user-attachments/assets/eeea335b-aa8a-48eb-881e-32f44ba23963)
+![Untitled - Frame 7](https://github.com/user-attachments/assets/0dc9281c-6d87-4f45-9f20-97f06bd61ce3)

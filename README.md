@@ -1,5 +1,5 @@
-[Cinema Subscription.pdf
-](https://github.com/KacperGierycz/CinemaSubscriptionManagementSystem-/blob/467546a6a97352f99eca43f95587a9628da87ada/Cinema%20Subscription.pdf)
+[Cinema Subscription.pdf click it for better visibility
+](https://github.com/KacperGierycz/CinemaSubscriptionManagementSystem-/blob/1e5b94022ae60d7f6691e10a0d62b1ae7d6aa6cf/Cinema%20Subscription.pdf)
 
 ![Cinema Subscriptionjpg](https://github.com/user-attachments/assets/13e3bacb-c25e-47ab-96ec-693a926d46c2)
 ![Cinema Subscriptionjpg2](https://github.com/user-attachments/assets/dd4bb30c-02cc-4509-a5c8-721e6d641bc8)

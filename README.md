@@ -1,14 +1,19 @@
 [Cinema Subscription.pdf
 ](https://github.com/KacperGierycz/CinemaSubscriptionManagementSystem-/blob/467546a6a97352f99eca43f95587a9628da87ada/Cinema%20Subscription.pdf)
 
-![image (10)](https://github.com/user-attachments/assets/e21083c1-1d17-4928-a79d-08555dfb0a07)
-![image (9)](https://github.com/user-attachments/assets/c4eb6d2a-eda6-4dcd-a312-4f4330f22c68)
-![image (8)](https://github.com/user-attachments/assets/28e88615-9e76-4db4-aa5f-f3a974ed7d3f)
-![image (7)](https://github.com/user-attachments/assets/7a280cad-0b75-4959-a090-7c86864ec36c)
-![image (6)](https://github.com/user-attachments/assets/dcff8f26-e2d5-49dd-970e-a0a38460c6f6)
-![image (5)](https://github.com/user-attachments/assets/9b011ed9-44a8-4bfa-8c4f-246371ddafe2)
-![image (4)](https://github.com/user-attachments/assets/8b135f76-7202-4758-ac31-3ae661e181d3)
-![image (3)](https://github.com/user-attachments/assets/a6fbd59e-e3a9-4c89-b01a-490d6b87fff8)
-![image (2)](https://github.com/user-attachments/assets/b53eeb15-5a83-436c-bc48-3bad9a234eb1)
-![image (1)](https://github.com/user-attachments/assets/a3c55d2d-9e37-4da6-becc-780355b7d6fb)
-![image](https://github.com/user-attachments/assets/fc447c0c-6a3a-4b90-b4fc-d00600d2ba77)
+![Cinema Subscriptionjpg](https://github.com/user-attachments/assets/13e3bacb-c25e-47ab-96ec-693a926d46c2)
+![Cinema Subscriptionjpg2](https://github.com/user-attachments/assets/dd4bb30c-02cc-4509-a5c8-721e6d641bc8)
+![Cinema Subscriptionjpg3](https://github.com/user-attachments/assets/d236d85d-d104-4f6f-aea8-23781020a154)
+![Cinema Subscriptionjpg4](https://github.com/user-attachments/assets/3f3e870e-d0ba-4b49-8ddf-ebd6c7b4b45d)
+![Cinema Subscriptionjpg5](https://github.com/user-attachments/assets/7b40f9d1-db76-4ef7-80be-95ecc07332d9)
+![Cinema Subscriptionjpg6](https://github.com/user-attachments/assets/740bd212-b332-4bdc-8e89-873c2dd8598d)
+![Cinema Subscriptionjpg7](https://github.com/user-attachments/assets/bd0af8ed-c578-4ceb-9006-d9e00ea19eba)
+![Cinema Subscriptionjpg8](https://github.com/user-attachments/assets/1a3d7672-7ab7-456b-b33c-630e4223b663)
+![Cinema Subscriptionjpg9](https://github.com/user-attachments/assets/a2f00054-23f7-4902-a049-bfad25ecf67b)
+![Cinema Subscriptionjpg10](https://github.com/user-attachments/assets/fe08258c-303b-40f7-8dd9-baad5f8cb4ca)
+![Cinema Subscriptionjpg11](https://github.com/user-attachments/assets/184beeb9-7851-4c02-ba2d-79e49cc2255e)
+![Cinema Subscriptionjpg12](https://github.com/user-attachments/assets/d34e7925-7a66-44c0-b498-e2761ed32991)
+![Cinema Subscriptionjpg13](https://github.com/user-attachments/assets/f83aa2a7-8ebf-4b2c-92e5-dace932d8ad5)
+
+
+
